@@ -1,0 +1,28 @@
+body{
+color:green;
+font-family:Verdana;
+font-weight:lighter;
+background-color:#ffc179;
+}
+h1{
+background-image: url("earth.jpg");
+background-repeat:repeat-x;
+  background-position:top;
+  background-attachment: scroll;
+text-align:center;
+padding:10px;
+}
+footer{
+background-color:purple;
+}
+a{
+background-color:red;
+
+}
+button{
+color:green;
+background-color:black;
+font-family:Tempus Sans ITC;
+font-size:100%;
+}
+ 
